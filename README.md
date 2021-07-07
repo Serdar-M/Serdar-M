@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Serdar-M
-- 👀 I’m interested in AutoHotkey..
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @SM
 - 📫 serdarmutlugroup@gmail.com
 
 <!---
